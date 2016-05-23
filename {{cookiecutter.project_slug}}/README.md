@@ -28,5 +28,6 @@ You should have a `{{cookiecutter.project_slug}}-VERSION.jar` file in the
 ## Loading Instructions
 Launch BurpSuite, go to the Extender tab and then open the Extensions tab and
 click on "Add". In the dialog window, select "java" as Extension Type and select
-the burp-template.jar. For further details about BurpSuite extensions, refer
-to their [documentation](https://portswigger.net/burp/help/extender.html#loading).
+the `{{cookiecutter.project_slug}}-VERSION.jar`. For further details about
+BurpSuite extensions, refer to their
+[documentation](https://portswigger.net/burp/help/extender.html#loading).
