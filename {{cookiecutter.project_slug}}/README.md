@@ -2,7 +2,7 @@
 
 ## Author
 
-Written by {{cookiecutter.author_name}} ([@{{cookiecutter.twitter_handle}}](https://twitter.com/{{cookiecutter.twitter_handle.to_lower()}}))
+Written by {{cookiecutter.author_name}} ([@{{cookiecutter.twitter_handle}}](https://twitter.com/{{cookiecutter.twitter_handle.lower()}}))
 
 ## Description
 

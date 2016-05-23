@@ -25,5 +25,5 @@ $ pip install cookiecutter
 Then create a skeleton of the project using cookiecutter
 
 ```bash
-$ cookiecutter https://github.com/XXXXX
+$ cookiecutter https://github.com/praetorianlabs-amarquez/cookiecutter-burp-java
 ```
