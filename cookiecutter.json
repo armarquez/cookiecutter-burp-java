@@ -1,7 +1,7 @@
 {
 	"author_name": "Anthony Marquez",
-	"email": "anthony.marquez@praetorian.com",
-	"github_username": "praetorianlabs-amarquez",
+	"email": "armarquez@gmail.com",
+	"github_username": "armarquez",
   "twitter_handle": "BoogeyMarquez",
 	"project_name": "Burp Java Extension Boilerplate",
 	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
@@ -10,7 +10,7 @@
 	"year": "{{ cookiecutter.release_date[:4] }}",
 	"version": "0.1.0",
   "java_version":"1.7",
-  "org_package":"com.praetorian",
-  "org_name":"Praetorian",
-  "org_website":"http://www.praetorian.com"
+  "org_package":"io.boogeymarquez",
+  "org_name":"BoogeyMarquez",
+  "org_website":"http://www.boogeymarquez.io"
 }
